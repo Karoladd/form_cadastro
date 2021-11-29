@@ -1,0 +1,94 @@
+ 
+ #area
+ {
+   position:relative;
+   left:37%;
+   top:10em;
+   width:340px;
+   height:270px;
+ }
+ 
+ 
+ #area #formulario
+ {
+   position:absolute;
+   display:block;
+ }
+ 
+ 
+ fieldset
+ {
+   background-color:#A7C0DC;
+   width:300px;
+   height:250px;
+ }
+ legend
+ {
+   font-weight:bold;
+   font-family: "Segoe UI","Arial","Times New Roman";
+ }
+ #formulario label
+ {
+   position:absolute;
+   left:19px;
+   margin-right:5px;
+ }
+ 
+ #formulario input.campo_cpf
+ {
+   background-color:#ffffff;
+   position:absolute;
+   left:95px;
+      width:200px;
+ }
+ 
+ #formulario input.campo_nome
+ {
+   background-color:#ffffff;
+   position:absolute;
+   left:95px;
+   width:200px;
+ }
+ 
+ #formulario input.campo_datan
+ {
+   background-color:#ffffff;
+   position:absolute;
+   left:160px;
+   width:135px;
+ }
+ 
+ 
+ #formulario input.campo_email
+ {
+     background-color:#ffffff;
+   position:absolute;
+   left:95px;
+   margin-top:2px;
+   width:200px;
+ }
+ 
+ #formulario input.campo_telefone
+ {
+   background-color:#ffffff;
+   position:absolute;
+   left:95px;
+   width:200px;
+ }
+ 
+ #formulario input.campo_sexo
+ {
+   background-color:#ffffff;
+   position:absolute;
+   left: 95px;
+   width:200px;
+ }
+
+ #formulario input.btn_submit
+ {
+   position:absolute;
+   bottom: 0.5em;
+   right:10px;
+   background-color:#ffffff;
+ } 
+ 
